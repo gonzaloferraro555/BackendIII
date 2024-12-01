@@ -1,0 +1,35 @@
+2024-10-10 20:49:20 [[31merror[39m]: Internal server error
+2024-10-10 20:50:23 [[31merror[39m]: Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-10 20:52:31 [[31merror[39m]: Hola vengo a dar error
+2024-10-10 20:55:05 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-21 20:00:49 [[31merror[39m]: _id Cast to ObjectId failed for value "{ petId: '6716d6fba9c28488719ddba8' }" (type Object) at path "_id" for model "Pets"
+2024-10-21 20:02:16 [[31merror[39m]: _id Cast to ObjectId failed for value "{ petId: '6716dd638aeb18fc6dd04e9b' }" (type Object) at path "_id" for model "Pets"
+2024-11-19 19:45:20 [[31merror[39m]: undefined Expected double-quoted property name in JSON at position 54
+2024-11-19 19:45:30 [[31merror[39m]: undefined Expected double-quoted property name in JSON at position 54
+2024-11-28 19:41:00 [[31merror[39m]: undefined this.userServices.getUserByEmail is not a function
+2024-11-28 19:56:52 [[31merror[39m]: _id Cast to ObjectId failed for value "emailtest13@gmail.com" (type string) at path "_id" for model "Users"
+2024-11-28 19:57:22 [[31merror[39m]: _id Cast to ObjectId failed for value "emailtest14@gmail.com" (type string) at path "_id" for model "Users"
+2024-11-28 20:10:02 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:14:22 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:19:55 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:20:51 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:22:41 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:41:11 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest14@gmail.com" (type string)
+2024-11-28 20:47:51 [[31merror[39m]: undefined Parameter "filter" to findOne() must be an object, got "emailtest15@gmail.com" (type string)
+2024-11-29 18:54:13 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:01:05 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:01:54 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:02:19 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:06:08 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:06:28 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:11:43 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:19:22 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:24:37 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:25:45 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:26:19 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:44:10 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:45:04 [[31merror[39m]: undefined usersService is not defined
+2024-11-29 19:47:03 [[31merror[39m]: undefined petsService is not defined
+2024-11-29 19:48:35 [[31merror[39m]: undefined petsService is not defined
+2024-11-29 19:49:57 [[31merror[39m]: undefined petsService is not defined
+2024-11-29 19:52:28 [[31merror[39m]: undefined this.petsService.getBy is not a function
