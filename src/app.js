@@ -14,7 +14,7 @@ import { specs } from "./config/swaggerConfig.js";
 
 const app = express();
 const PORT = process.env.PORT || 8080;
-const connection = mongoose.connect(`mongodb+srv://admin:43443534254011@codercluster.hajze8d.mongodb.net/BackendIII`);
+const connection = mongoose.connect(``);
 
 app.use(express.json());
 app.use(cookieParser());
